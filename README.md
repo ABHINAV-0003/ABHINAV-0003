@@ -1,5 +1,5 @@
 - 👋 Hi, I’m APEACE
-- 👀 I’m interested in space exploration,history chess, and ocassionally coding
+- 👀 I’m interested in space exploration,history chess,cybersecurity and occasionally programming!?
 - 🌱 I’m currently learning to live
 - 💞️ I’m looking to collaborate on something which is not nothing
 - 📫 How to reach me - I don't know find out
