@@ -14,3 +14,6 @@
     <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV-0003&theme=dark&hide_border=true&border_color=646464" alt="ABHINAV-0003"/>
     <img class="Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABHINAV-0003&show_icons=true&locale=en&layout=compact&theme=dark&size_weight=0.6&count_weight=0.4&langs_count=8&hide_border=true&hide=Cmake,Batchfile&border_color=646464" alt="ABHINAV-0003" />
 </a>
+
+
+![snake gif](https://github.com/ABHINAV-0003/ABHINAV-0003/blob/output/github-contribution-grid-snake.svg)
